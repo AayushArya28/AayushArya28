@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayusharya28&label=Profile%20views&color=0e75b6&style=flat" alt="aayusharya28" /> </p>
 
-- 🌱 I’m currently learning **React and Node**
+- 🔭 I’m currently working on [Technika Website](https://technikabitp.com/)
+
+- 🌱 I’m currently learning **ReactJS and NodeJS**
 
 - 💬 Ask me about **Tailwind CSS and Javascript**
 
