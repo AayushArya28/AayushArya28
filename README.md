@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aayush Arya</h1>
 <h3 align="center">Front-End Developer | Hackathon Enthusiast | Bringing Ideas to Life through Code</h3>
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4502924-Python-developer-animation&psig=AOvVaw22c0pOub7iMiXTMrmfEmPa&ust=1736000799101000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCg2onh2YoDFQAAAAAdAAAAABAQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayusharya28&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
