@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aayush Arya</h1>
 <h3 align="center">Front-End Developer | Hackathon Enthusiast | Bringing Ideas to Life through Code</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1gDysYC6QpCP0UqE5qzx0mLt181B3BIv2/view?usp=drive_link">
 
-<p align="left"> <img src="https://drive.google.com/file/d/1gDysYC6QpCP0UqE5qzx0mLt181B3BIv2/view?usp=drive_link" alt="aayusharya28" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayusharya28&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 - 🔭 I’m currently working on [Technika Website](https://technikabitp.com/)
 
