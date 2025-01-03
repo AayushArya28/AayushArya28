@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Developer | Hackathon Enthusiast | Bringing Ideas to Life through Code</h3>
 <img align="right" alt="Coding" width="400" src="https://komarev.com/ghpvc/?username=aayusharya28&label=Profile%20views&color=0e75b6&style=flat">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayusharya28&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+<p align="left"> <img src="" /> </p>
 
 - 🔭 I’m currently working on [Technika Website](https://technikabitp.com/)
 
